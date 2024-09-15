@@ -1,5 +1,4 @@
-# Full-Stack Project
-
+# Fruit.ai
 ## Overview
 This project is a full-stack application with a front-end built using React and a back-end using Flask. The application includes a login page, a homepage with multiple services, and a backend API for managing FAQs.
 
