@@ -6,7 +6,7 @@ This project is a full-stack application with a front-end built using React and 
 https://fruit-ai-psi.vercel.app/
 
 ## Demo Video
-
+https://youtu.be/RUEzy_jNu20
 
 ## Front-End
 
